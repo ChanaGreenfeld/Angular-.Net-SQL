@@ -1,0 +1,14 @@
+<div class="css">
+<img src={{myProd.picture}} width="245px" height="250px" (click)="viewdetails()"/> 
+
+<p>{{myProd.nametoy}}</p>
+<lable class="x" *ngIf="yes">הפריט התווסף בהצלחה ✔</lable> 
+<br>
+<input type="button" value="הוספה לסל" class="addtobag" (click)="addtobag()"  *ngIf="currentUser!=undefined">
+
+
+</div>
+
+
+
+

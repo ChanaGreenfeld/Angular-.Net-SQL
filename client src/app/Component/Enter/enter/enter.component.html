@@ -1,0 +1,52 @@
+ <br><br><br><br><br><br><br>
+ 
+ <div class="container" align="center" >
+ <h2>כניסה</h2>
+<form #myForm="ngForm" (ngSubmit)="onEnter()" align="center">
+    <input type="text" [(ngModel)]="enterUser.nameuser" #Name placeholder="הכנס שם" id="Name" name="Name" maxlength="10" required>
+    <br><br><br>
+    <input type="text" [(ngModel)]="enterUser.passworduser" #Password placeholder="הכנס קוד" name="Password" id="Password"  maxlength="6" required>
+    <br><br><br><br>
+    <input type="submit" class="ok"  value="אישור" [disabled]="!myForm.valid">
+    <p *ngIf="yes2">{{this.userservise.user.nameuser}} :{{this.userservise.user.codeuser}} שלום לקוח</p>    
+</form> 
+
+</div>
+<br><br><br>
+<br><br><br>
+<div *ngIf="login" class="con">
+<button class="button"  (click)="viewProducts()"><span>המשך</span></button>
+<button class="button2"  (click)="update()"><span>לשינוי פרטי הזדהות</span></button>
+<!--openForm()-->
+</div>
+<p *ngIf="yes">⬇ פרטי הזדהות שגויים</p>
+<br><br>
+
+
+<div *ngIf="edit">
+<div class="form-popup" id="myForm">
+
+    <h1>עריכה</h1>
+<form #myForm="ngForm" (ngSubmit)="onEntertwo()" align="center">
+<p   #name value="userservise.user.codeuser" name="code" id="code">{{userservise.user.codeuser}} : שלום למשתמש </p>
+    <input type="text" [(ngModel)]="enterUser.nameuser" #name placeholder="הכנס שם" name="name" id="name"  maxlength="10" required>
+    <br><br><br>
+     <input type="text" [(ngModel)]="enterUser.passworduser" #pass placeholder="userservise.user.nanameuser" id="pass" name="pass" maxlength="5" required>
+    <br><br><br>
+     <input type="text" [(ngModel)]="enterUser.phoneuser" #phone  id="phone" name="phone" maxlength="10" required>
+    <br><br><br>
+     <input type="text" [(ngModel)]="enterUser.addressuser" #address  id="address" name="address" maxlength="10" required>
+    <br><br><br>
+    <input type="submit" class="btn" id="ok" value="אישור" [disabled]="!myForm.valid">
+  <button type="button" class="btn cancel" (click)="closeForm()">סגירה</button>
+  </form>
+</div>
+<br><br>
+</div>
+
+
+<br><br><br><br><br>
+<div *ngIf="!login" > 
+<h1>?אינך רשום עדיין</h1>
+<a routerLink="/login" class="a">הרשם כאן</a>
+</div>

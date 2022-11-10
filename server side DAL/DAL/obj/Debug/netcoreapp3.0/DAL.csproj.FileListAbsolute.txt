@@ -1,0 +1,31 @@
+A:\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+A:\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+A:\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+A:\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+A:\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+A:\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\DAL\obj\Debug\netcoreapp3.0\DAL.pdb

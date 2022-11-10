@@ -1,0 +1,26 @@
+<br><br><br><br><br><br><br>
+
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+  <!-- Modal content -->
+  <div class="modal-content">
+    <span class="close" (click)="close()">&times;</span>
+    <br>
+    <fieldset class="fls">
+    <legend>הרשמה</legend> 
+<form #myForm="ngForm" (ngSubmit)="onEnter()" align="center">    
+    <input type="text" [(ngModel)]="enternewUser.nameuser" #name placeholder="הכנס שם" name="name" id="name"  maxlength="10" required/>
+    <br><br><br>
+     <input type="text" [(ngModel)]="enternewUser.passworduser" #pass placeholder="הכנס קוד כניסה" id="pass" name="pass" maxlength="5" required/>
+    <br><br><br>
+     <input type="text" [(ngModel)]="enternewUser.phoneuser" #phone placeholder="הכנס טלפון" id="phone" name="phone" maxlength="10" required/>
+    <br><br><br>
+     <input type="text" [(ngModel)]="enternewUser.addressuser" #address placeholder="הכנס כתובת" id="address" name="address" maxlength="10" required/>
+    <br><br><br>
+    <input type="submit" id="ok" value="אישור" [disabled]="!myForm.valid">
+</form> 
+</fieldset>
+
+  </div>
+</div>

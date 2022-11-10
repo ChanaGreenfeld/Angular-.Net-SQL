@@ -1,0 +1,53 @@
+
+    <tr>
+        <th>קוד</th>
+        <th>שם משחק</th>
+        <th>תיאור</th>
+        <th>קוד קטגוריה</th>
+        <th>מחיר</th>
+        <th>תמונה</th>
+        <th>מחיקה</th>
+        <th>עריכה</th>
+    </tr>
+    <tr *ngFor="let pro of products">
+        <td>{{pro.codetoy}}</td>
+        <td>{{pro.nametoy}}</td>
+        <td>{{pro.describetoy}}</td>
+        <td>{{pro.codecategory}}</td>
+        <td>{{pro.price}}</td>
+        <td><img [src]="pro.picture" width="60px" height="60px"/> </td>
+        <td><input type="button" value="delete" (click)="delete(pro)"></td>
+         <td><input type="button" value="edit" (click)="edit(pro)"></td>
+    </tr>
+</table>
+
+<input type="button" value="הוספה" (click)="add()">
+
+
+
+<form #myForm="ngForm" (ngSubmit)="onSubmit()" *ngIf="addbool">
+    <label>enter nametoy </label><input type="text" [(ngModel)]="newtoy.nametoy"   #validName="ngModel" name="name" id="name" required minlength="2" maxlength="20"><br><br>
+     <div *ngIf="validName.errors" class="error">
+        <label *ngIf="validName.errors.minlength" class="red">השם חייב להכיל 2 אותיות</label><br><br>       
+    </div>  
+    <label>enter describetoy: </label><input type="text" [(ngModel)]="newtoy.describetoy" value="pro.describetoy" name="des" id="des" required minlength="2" maxlength="20">
+    <br><br>
+    <label>enter codecategory: </label><input type="number"  min="1" [(ngModel)]="newtoy.codecategory"  name="cat" id="cat"><br><br>
+    <label>enter price: </label><input type="number"  min="0" [(ngModel)]="newtoy.price" name="price" id="price"><br><br>   
+    <input type="submit" value="אישור" [disabled]="!myForm.valid">
+</form>
+
+
+<form #myForm="ngForm" (ngSubmit)="onSubmit2()" *ngIf="editbool">
+   <label>enter codetoy </label><input type="number" [(ngModel)]="newtoy.codetoy"   #validName="ngModel" name="newtoy.codetoy" id="name" required><br><br>
+    <label>enter nametoy </label><input type="text" [(ngModel)]="newtoy.nametoy"   #validName="ngModel" name="name" id="name" required minlength="2" maxlength="20"><br><br>
+     <div *ngIf="validName.errors" class="error">
+        <label *ngIf="validName.errors.minlength" class="red">Name must be minimum 2 characters</label><br><br>       
+    </div>  
+    <label>enter describetoy: </label><input type="text" [(ngModel)]="newtoy.describetoy" name="des" id="des" required minlength="2" maxlength="20">
+   <br><br>
+    <label>enter codecategory: </label><input type="number"  min="1" [(ngModel)]="newtoy.codecategory"  name="cat" id="cat"><br><br>
+    <label>enter price: </label><input type="number"  min="0" [(ngModel)]="newtoy.price" name="price" id="price"><br><br>   
+    <input type="submit" value="אישור" [disabled]="!myForm.valid">
+</form>
+

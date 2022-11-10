@@ -1,0 +1,13 @@
+ <br><br><br><br><br><br><br>
+
+<br><br>
+<button *ngFor="let cat of categorys" (click)="getbycat(cat.idCategory)" class="a">{{cat.nameCategory}}</button>
+<button  (click)="all()" class="a">כל המשחקים</button>
+<br><br><br><br>
+
+<div *ngFor="let item of products" >
+    <app-prod [my-prod]="item"></app-prod>
+</div>
+
+<a routerLink="/shoppingbag" class="s">🛒לצפיה בסל הקניות</a>
+<router-outlet></router-outlet>

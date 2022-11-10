@@ -1,0 +1,22 @@
+
+<table border="1" padding="4">
+    <tr>
+        <th>קוד</th>
+        <th>שם קטגוריה</th>
+    </tr>
+    <tr *ngFor="let cat of categorys">
+        <td>{{cat.idCategory}}</td>
+        <td>{{cat.nameCategory}}</td>
+    </tr>
+</table>
+
+<br><br>
+<p>enter id</p><br>
+<input type="text" #txtId ><br>
+<p>הכנס שם קטגוריה</p><br>
+<input type="text" #txtName >
+
+<br>
+
+<input type="button" value="הוספה" (click)="onAdd(txtName.value)">  |  
+<input type="button" value="עריכה" (click)="onEdit(txtId.value,txtName.value)">

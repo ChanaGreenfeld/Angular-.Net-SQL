@@ -1,0 +1,39 @@
+.css{
+ float: left;
+  margin-left: 80px;
+  margin-top: 50px;
+  padding: 20px;
+  box-shadow:0 0 4px  rgb(241, 12, 138);
+  color: black;
+  text-shadow: 1px 1px 2px rgb(255, 12, 223), 0 0 25px rgb(241, 12, 138), 0 0 5px rgb(241, 12, 138);
+  font-size: 25px;
+  font-style: italic;
+  }
+
+div:hover{
+  box-shadow:0 0 10px  rgb(172, 143, 175);
+  background-color:rgb(253, 186, 253); ;
+} 
+.btn {
+  border: 2px solid black;
+  background-color: white;
+  color: black;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-left: 30px;
+}
+.addtobag{
+  border-color: rgb(241, 12, 138);
+  color: rgb(241, 12, 138);
+}
+      
+.addtobag:hover {
+    background:rgb(241, 12, 138);
+    color: white;      
+} 
+.x{
+  color: black;
+  font-size: 20.5px;
+  float: right;
+}

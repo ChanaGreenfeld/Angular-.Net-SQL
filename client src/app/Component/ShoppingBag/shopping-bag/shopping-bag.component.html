@@ -1,0 +1,38 @@
+ <br><br><br><br><br><br><br>
+ <h2 *ngIf="shoppingbag2.length==0">סל הקניות שלך ריק חזור לתצוגת מוצרים</h2>
+<table align="center" border="1" padding="4" *ngIf="shoppingbag2.length>0">
+    <tr class="color2">
+        <th class="color">קוד משחק</th>
+        <th class="color">שם משחק</th>
+        <th class="color">תיאור</th>
+        <th class="color">קוד קטגוריה</th>
+        <th class="color">מחיר</th>
+        <th class="color">תמונה</th>
+        <th class="color">קוד משתמש</th>
+        <th class="color">כמות</th>
+        <th class="color">סה"כ</th>
+        <th class="color">הסרה</th>
+    </tr>
+    <tr class="color2" *ngFor="let shbag of shoppingbag2" >
+        <td class="color">{{shbag.toy.codetoy}}</td>
+        <td class="color">{{shbag.toy.nametoy}}</td>
+        <td class="color">{{shbag.toy.describetoy}}</td>
+        <td class="color">{{shbag.toy.codecategory}}</td>
+        <td class="color">{{shbag.toy.price}}</td>        
+        <td class="color"><img [src]="shbag.toy.picture" width="90px" height="90px"/> </td>
+        <td class="color">{{this.currentuser}}</td>
+        <td class="color">
+        <input type="button" value="-" (click)="minusf(shbag)">
+        <input type="button" value={{shbag.count}}>
+        <input type="button" value="+" (click)="plusf(shbag)">
+        </td>
+        <td class="color">{{shbag.sum}}</td>
+        <td class="color"><input type="button" value="ביטול" (click)="delete(shbag.toy.codetoy)"></td>     
+    </tr>
+</table>
+
+<h2>:סכום סופי</h2>
+<p class="total">{{this.totalsum}}</p>
+
+<a routerLink="/finish" class="a" (click)="save()" *ngIf="shoppingbag2.length>0">לתשלום</a> 
+<router-outlet></router-outlet>

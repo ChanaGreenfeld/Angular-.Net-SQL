@@ -1,0 +1,259 @@
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.csprojAssemblyReference.cache
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\BLL.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DTO.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\BLL.pdb
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DTO.pdb
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CopyComplete
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+A:\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+A:\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\appsettings.Development.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\appsettings.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.exe
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.runtimeconfig.dev.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\WebApi.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Caching.Memory.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Options.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Extensions.Primitives.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Identity.Client.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.OpenApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Collections.Immutable.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.ComponentModel.Annotations.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Configuration.ConfigurationManager.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Diagnostics.DiagnosticSource.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.Caching.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Runtime.CompilerServices.Unsafe.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.AccessControl.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Permissions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\Microsoft.Win32.Registry.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Security.AccessControl.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp2.0\System.Text.Encoding.CodePages.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\staticwebassets\WebApi.StaticWebAssets.xml
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.RazorTargetAssemblyInfo.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\WebApi\obj\Debug\netcoreapp3.0\WebApi.pdb

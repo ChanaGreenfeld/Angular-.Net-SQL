@@ -1,0 +1,40 @@
+A:\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+A:\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+A:\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+A:\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+A:\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+A:\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+A:\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+A:\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+A:\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+A:\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+A:\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+A:\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+A:\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\פרויקט!!!\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.deps.json
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\BLL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DAL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DTO.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DAL.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\bin\Debug\netcoreapp3.0\DTO.pdb
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.csprojAssemblyReference.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CoreCompileInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfoInputs.cache
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.AssemblyInfo.cs
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.csproj.CopyComplete
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.dll
+F:\תיקייה כללית\שנה ב תשפב\תלמידות\חני גרינפלד\Angular פרויקט\פרויקט\PROJECT\BLL\obj\Debug\netcoreapp3.0\BLL.pdb
